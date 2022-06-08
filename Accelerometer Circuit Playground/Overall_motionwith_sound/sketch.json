@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "arduino:samd:adafruit_circuitplayground_m0",
+    "name": "Adafruit Circuit Playground Express",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
